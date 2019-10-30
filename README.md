@@ -6,4 +6,4 @@ Uvod v github.
 Dopisali smo še eno vrstico.
 
 Popravek1
-
+Poptavek2
